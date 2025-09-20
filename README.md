@@ -1,4 +1,4 @@
-# Automated Two-Combo Box Scraper
+# AYUSH PYTHON SCRAPPER
 
 This Python project uses **Playwright** to automatically scrape data from a web page with **two dependent combo boxes** and an input textbox. The scraper:
 
